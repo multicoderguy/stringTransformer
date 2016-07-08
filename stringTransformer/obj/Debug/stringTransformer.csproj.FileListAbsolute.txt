@@ -1,0 +1,5 @@
+C:\projects\vs2008\stringTransformer\stringTransformer\obj\Debug\ResolveAssemblyReference.cache
+C:\projects\vs2008\stringTransformer\stringTransformer\bin\Debug\stringTransformer.exe
+C:\projects\vs2008\stringTransformer\stringTransformer\bin\Debug\stringTransformer.pdb
+C:\projects\vs2008\stringTransformer\stringTransformer\obj\Debug\stringTransformer.exe
+C:\projects\vs2008\stringTransformer\stringTransformer\obj\Debug\stringTransformer.pdb
